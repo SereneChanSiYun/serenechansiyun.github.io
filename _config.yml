@@ -1,0 +1,16 @@
+# Site settings
+title: Serene Chan
+description: Digital Marketing Manager
+email: serene_siyun3@hotmail.com
+social_links:
+  github: https://github.com/serenechan
+  linkedin: https://www.linkedin.com/in/serenechan/
+
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
