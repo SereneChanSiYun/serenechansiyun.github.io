@@ -3,9 +3,11 @@ title: Serene Chan
 description: Digital Marketing Manager
 email: serene_siyun3@hotmail.com
 social_links:
-  github: https://github.com/serenechan
+  github: https://github.com/serenechansiyun
   linkedin: https://www.linkedin.com/in/serenechan/
 
+url: "https://serenechansiyun.github.io"
+baseurl: ""
 
 # Build settings
 markdown: kramdown
